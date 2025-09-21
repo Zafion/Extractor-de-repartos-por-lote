@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed actualizar_plantilla.py
